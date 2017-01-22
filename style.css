@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#logo {
+  font-family: VT323;
+  font-size: 2em;
+  padding: 20px;
+  color: #1d3156;
+  text-decoration: none;
+
+}
+
+nav {
+  padding-top: 20px;
+}
+
+li {
+  position: relative;
+  display: inline;
+  padding: 20px;
+}
+
+ul {
+  display: inline-block;
+  float: right;
+  padding: 20px;
+}
+
+header {
+  position: fixed;
+  display: inline;
+  width: 100%;
+  z-index: 1000;
+  background: white;
+}
+
+.menu {
+  text-decoration: none;
+  color: #ffc410;
+}
+
+/*.coming:hover {
+  text-decoration: line-through;
+  cursor: progress;
+  transition: all 2.0s;
+}*/
