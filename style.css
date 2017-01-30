@@ -187,11 +187,14 @@ header {
 
 .fa {
   font-size: 21px;
-  padding: 5px;
 }
 
 .social {
   padding: 10px;
+}
+
+.social a {
+  padding: 2px;
 }
 
 #headline {
