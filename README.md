@@ -6,5 +6,6 @@ I want to make sure this website fully pictured my journey and story in learning
 **Short term:**
 - [ ] using media queries for font size in the text content
 - [ ] adding footer to show up navigation to top and each week reflection
+- [ ] adding js file for interactivity in explaining things
 
 
